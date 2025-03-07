@@ -68,9 +68,16 @@ Ensure you configure Auth0, Plaid, and MongoDB credentials for a seamless local 
 - Expanded investment and retirement planning tools
 - Improved collaborative budgeting features
 
-## Contributions
+## Contributors
 
-We welcome contributions! Please fork the repository, implement your improvements, and submit a pull request. We appreciate your input and support in making SmartMoney better every day.
+Oleg Korobeyko
+Paul Yoon
+Griffin Dickson
+Paarth Desai
+Kenyon Taylor
+
+## Organization Repository
+[SmartMoney-frontend Repository](https://github.com/WSU-4110/SmartMoney-frontend)
 
 ## License
 
