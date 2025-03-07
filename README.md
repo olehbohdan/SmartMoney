@@ -70,11 +70,11 @@ Ensure you configure Auth0, Plaid, and MongoDB credentials for a seamless local 
 
 ## Contributors
 
-Oleg Korobeyko
-Paul Yoon
-Griffin Dickson
-Paarth Desai
-Kenyon Taylor
+- Oleg Korobeyko 
+- [Paul Yoon](https://github.com/gi5229)
+- [Griffin Dickson](https://github.com/hi1314-griffindickson)
+- [Paarth Desai](https://github.com/paarth-desai)
+- [Kenyon Taylor](https://github.com/Coiny55)
 
 ## Organization Repository
 [SmartMoney-frontend Repository](https://github.com/WSU-4110/SmartMoney-frontend)
