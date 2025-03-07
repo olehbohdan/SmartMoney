@@ -41,7 +41,7 @@ SmartMoney combines powerful budgeting tools, seamless account integration, and 
 
 1. **Clone the repository:**
 ```bash
-git clone [repository-link]
+git clone https://github.com/olehbohdan/SmartMoney
 ```
 
 2. **Install dependencies:**
